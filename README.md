@@ -30,7 +30,7 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Rawda Emad**, a **Business Analytics graduate** passionate about transforming raw data into meaningful insights and business decisions.
+Hi! I'm **Rawda Emad**, a **Data Analytics graduate** passionate about transforming raw data into meaningful insights and business decisions.
 
 I enjoy working with data from the beginning of the analytics process — from **data cleaning and exploration** to **SQL analysis, visualization, dashboard development, and predictive analytics**.
 
