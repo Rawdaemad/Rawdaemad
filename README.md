@@ -66,7 +66,12 @@ I'm constantly exploring new ways to analyze, visualize, and communicate data. I
 
 <p align="left">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Regression-6C63FF?style=flat" />
+<img src="https://img.shields.io/badge/Classification-6C63FF?style=flat" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-6C63FF?style=flat" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-6C63FF?style=flat" />
 </p>
+
 
 ### 🗄️ Database
 
